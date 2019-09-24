@@ -21,7 +21,7 @@ class Materia {
         self.calificacionSegundoParcial = calificacionSegundoParcial
         self.calificacionTercerParcial = calificacionTercerParcial
         self.calificacionFinal = calificacionFinal
-        <#statements#>
+        
     }
 }
 
